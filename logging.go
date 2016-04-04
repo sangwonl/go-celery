@@ -1,8 +1,8 @@
 package celery
 
 import (
-	log "code.google.com/p/log4go"
 	"flag"
+	log "github.com/alecthomas/log4go"
 	"strings"
 )
 
